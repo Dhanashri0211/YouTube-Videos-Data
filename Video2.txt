@@ -1,0 +1,128 @@
+Hello everyone, welcome back once again to Careero, a place to curate your career. In today's video, I will be telling you all about Cognizant Technology Solutions, often
+known as Cognizant and CTS both. Okay, so without saying anything further, let's get started with the video. So Cognizant is another market player who hires freshers in big numbers.
+It is a tech giant and a sister company to all TCI, Synthesis, Wipro, Capgemini, Accenture, whatever.
+So it is one of the sister companies and here also some of the facilities are somewhat matching to its sister companies only.
+So let's start one by one.
+If we talk about the position in which Cognizant actually comes to hire freshers, then it is
+generally the position of PAT that is the Programmer Analyst Trainee. So I had this friend who was working with Cognizant since very long time and when he He was actually taken in at a salary slab of 3.5 LPA and hence his, you know, per month
+initial salary was around 22 to 23k.
+However, we have now heard that Cognizant has increased the salary slab from last year itself and it has, you know, raised the bar to 4 or 4.5 for some as well. So now you can expect a raise somewhere around 25 to 26k in hand per month when you join Cognizant as a Programmer Analyst Trainee.
+Now what will happen after you join it?
+So you know, you will be given a training of course and this training will be carried out in different phases.
+What I mean by phases is first you will be given a generic training where concepts like database, RDBMS, SQL and communication skills, all of those things will get catered to and you will be trained in those technologies.
+Post that, there will be, you will be, you know, segregated. You will actually know from the beginning only which domain you have been selected into
+and then you will be given a domain based training.
+So as I said, for the friend that I was talking about, he was put into the domain of Enterprise Application Services and in that he was trained, you know, Java, Advanced Java and along with
+that some of the specific tools that might be needed for his job. If you are, you know, maybe put in the full stack, then you will be maybe trained for
+Java and then you will be trained for Angular and then you will be trained for something else.
+Those, if you are taken in for cloud, then you will be trained in Azure or AWS and different
+clouds that are there.
+If you are trained again for full stack, it can be either Java or .NET. So you can be taken in as a .NET candidate as well.
+So, you know, after getting this generic training of learning SQL and communication skills,
+soft skills, everything, you will be later given the domain based training, which will be separate for different people. Okay. It will be depending on the domain that you have been put into and don't ask me how these
+domains are selected because that is pretty random and I don't know the algorithm to it. It's actually very difficult to get hold of the algorithm.
+So you are just put into a domain and you are just trained according to the requirement of that domain.
+Okay.
+So if your domain is just technological, then you will be taught all the technologies. If your domain is tool-based, then you will be taught the tools that are there in that, you know, that are required in those projects.
+And that is how your training will continue for the next three to four months. So your training will be actually a total of three to four months.
+It has been happening virtually since, you know, the pandemic has started, but, and even
+today it is happening.
+They are, they have not called in for a classroom training.
+However, we cannot say about the future.
+Maybe in the new batch, maybe the COVID can hit in and the virtual trainings can continue or maybe the work from office scenario can hit in and, you know, you can get a classroom training.
+So whatever you want, pray for that because we actually don't have a clarity of what these organizations are planning.
+Okay. After that, you know, post your training is done.
+I forgot one thing when you are being trained or getting trained in this tree in these three to four months, you will of course have module based tests and those tests will be essential and you will need to pass those tests. Okay.
+You cannot take them lightly and you cannot say that you cannot, you cannot actually say like this and act casually because if you do not perform well, if your performance is not up to the mark, there is a passing score.
+You will definitely get reevaluations, but if you do not perform well consistently, then
+you will be removed from the organization. So none of us want that to happen with us.
+So it's better not to take the risk.
+There is also this confusion that whether the training is good enough and whether people coming from, you know, non CS non-IT backgrounds, can they cope with the training with the stress? Then let me tell you that the training starts from pretty basic and it is actually easy to cope.
+However, what I would recommend is that you put in a bit extra effort because that might be needed for your case because you know, you have not had the previous experience of
+working or knowing these technologies.
+So yeah, you might need to give in a tad bit more concentration and a tad bit more of your focus attention and of course your hard work.
+However, the tests are fairly easy so you can actually pass them.
+There's no need to worry about it.
+Once your training gets completed, there is a final test, an evaluation test that they call initially they used to call it Dovetail.I don't know if that term is still there, but they take this test and you need to pass it.
+It is very important to, you know, continue further in the organization.
+You cannot take this test lightly.
+It will only if you do not perform well, if you fail, then you will be given just one chance one revaluation and if you again don't perform well, don't perform up to the mark,
+then you will be removed.
+Okay.
+So yeah, you have to take the trainings pretty seriously.
+Even so, more so because even if you are good enough and you don't need to study much, the performance of these trainings actually are a benchmark to your rating of that year.
+So you know, eventually how much 10 will get what will be the rating that you will be getting all of these will, you know, have a percentage from this training as well.
+So you know, the better you do in this training, the better will be your rating with your
+managers and the better will be your chances to get a good hike. Yeah.
+So coming back, if we talk about after getting trained and after you have passed your evaluation test and then what will happen, you will be put to bench.
+Yes, the bench concept or the moving on to bench concept in very much real in IT sector
+and we all know that.
+So you will be next moved on to bench and after moving to bench, you will be, you know, getting calls from your from various project managers, HRS, there's that and you will be
+appointed or get assigned to certain project. OK, this generally people do get assigned to one or to several any project of their
+desire. Not to worry if you do not get selected in any one of the projects for a span of 28 days,
+that is, you know, 28 days or one month, then you will be moved on to central bench. And generally people worry that, you know, whether you will be thrown out of the organization, this that then no moving on to central bench does not really mean that you will be thrown out of the organization.
+It simply means that now you have been there for several days.
+And, you know, yes, of course, if you are not getting selected in any of the projects, if the people who are calling you are giving wrong reviews of yours to the RMG, that you do not have, you know, that kind of knowledge, you are not able to answer questions, this
+that then that might be a problem.
+But if it is nothing like that and you are not getting project because they do not have the requirement for the domain that you have been trained on, then it's not your fault.
+So you need not worry.
+OK, you will be moved to the central bench.
+But again, it's not your headache.
+I
+One thing that I would suggest is that be in continuous touch with your RMG or your
+It will not cost you or it will not harm you.
+You will be getting your salary, of course.
+HR, your people manager, whoever is there for you so that you get, you know, yourself enrolled in a project as soon as possible.
+The next thing that is there is and it is probably one of the very, you know, relieving things that is there in Cognizant is that they do not have this bond policy.
+So, you know, you can if you want to, you can resign any time you want because you will not be asked to pay a certain amount if you have not, you know, completed certain time
+in the organization.
+So there no one policy is something that I really became a fan of, although I personally
+wasn't someone who had to pay a bond. Still, I like this policy.
+You know, everyone should have the freedom to move out whenever they wish to. And why do we need to pay?
+Right. Moving ahead, they do have a longer probation period. So generally, you know, I have known that Captur-Mini has this probation period of si
+months. PwC, they actually do not have a probation. You are a permanent employee from the day you join in.
+This probation period lasts for one year. After a year, you will be permanent. So, you know, the probation period is longer, although there is the no bond.
+So actually, since you are not an employee, you can get removed. You know, that fear can be there in people.
+However, they do not remove you without giving you proper reason if you are OK. And even if you are on bench, they do not remove you generally.
+Moving ahead, after one year of your probation period gets over, you get promoted as a PA, that is Programmer Analyst.
+So from Programmer Analyst trainee, PAT to PA, this gets done in a span of one year
+in which you will be on probation for the entire year
+Yeah.
+So now when you get promoted and you become a PA, your salary also gets increased. Yes, it does.
+And here the rating comes into picture. OK, so whatever the way in which you performed in your training
+whether you were in a project or not, the way you have worked in your project,
+how you have handled the deliverables, this that everything takes a has a weightage and everything gets calculated and a rating is submitted.
+And based on that, this salary increment takes place.
+So this salary increment can be from somewhere around 32 to 35 K.
+OK, so from 25, 26 K.
+You will move to 32 to 35 K.
+It depends on the rating that you will be getting.
+Yeah, so that is how things change when you complete one year within Cognizant. Not to forget that if you want to, you know, increase your knowledge,
+you want to upscale yourself, then Cognizant has partnered with Udemy. And Udemy is their online learning platform.
+You get the entire Udemy for yourself and you can anytime go and upscale yourself. If we talk about the work-life balance,
+then, you know, it is actually really project dependent. However, Cognizant is actually set to have a good work-life balance with people
+getting good projects, good exposure, you know, when they are taken in, they are given responsibilities and they are helped.
+So it is actually not very bad when it
+comes to work culture or the work responsibilities that are there. So if you want to grow and if you want to join in Cognizant as a fresher,
+it is one of the very good organizations and you should go into it.
+Definitely, if you have the opportunity, why not? Now, for example, you have spent your time in Cognizant and now you want to resign
+from the organization, then the notice period for this organization is 90 days.
+Just like many other organizations,
+especially the sister companies that I talked about, this
+CTS also has this notice period of three months, that is 90 days.
+Previously, it was 60 days, but they
+increased it when this covid pandemic was ongoing, probably to reduce the attrition
+rate that was there. I don't know.
+But yeah, that's all that.
+That's how Cognizant works.
+And I will be covering several other videos in which I will be telling you all
+about, you know, the hikes that you get in Cognizant. And of course, there is this training program that they have
+started from last year onwards. It's called the CSD program.
+I will be making that, bringing that thing in another video because this video has already been very long and I don't want to make it long,
+you know, more, I don't want to make it much longer.
+So, you know, I will be covering these topics in several other videos. That's all that I have for you in today's video.
+If you have anything or if there is anything that I might have missed, then please put them down in the comments section so that all of us help each other
+grow in our careers. That's all that I have for you.
+With that, that's all that I have for you in today's video.
+Thanks for watching. Stay tuned to CareerQ.
+Thanks for watching. Take care. Bye.

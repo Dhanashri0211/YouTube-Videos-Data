@@ -1,0 +1,76 @@
+Hi guys, today we are going to talk about Essentia.
+When you join the company as a fresher, what will be your salary, what will be your joining process, 
+what will be your role, we will cover everything in detail in this video.
+Let's start the video.
+So the first thing is, when you join a company, what role will you be offered?
+So in Essentia, what they generally offer the fresher is application development associate.
+Now the role has been offered to us, now we have started working.
+Now let's see how much salary you will get.
+So you get a salary of 4.5 lakhs per annum, which is nearly 28-30 thousand per month.
+Now the important thing is what is the joining process.
+Here I will tell you what you will be doing before joining.
+Is it similar to what happens in other companies?
+You will be getting your letter of intent, document verification is happening as similar.
+Here one more thing is learning modules.
+Before joining, you would get learning modules and they take it pretty seriously.
+Like on the basis of learning modules, some tests are also going on, which I will explain to you later.
+Now one more thing is that you get your learning modules 2-3 months before joining.
+And here it happens many times that you basically take time to join.
+Like you are selected in September or October, but your joining may be happening in May-June.
+So there is a chance that your joining may be delayed.
+This was our before joining process.
+So now let's see what process is followed after joining.
+So the learning modules that we were preparing, now on the basis of this learning module,
+our fundamental assessment will be being tested.
+This test is based on Java and SQL.
+There will be a paper of 100 marks, 50 MCQs, no negative marking and 2 coding questions.
+Now if we clear this paper with a minimum of 60% and the learning modules that we got,
+if we complete them with 98%, then the company offers us 10,000 rupees as an incentive learning.
+Kind of you can consider it as a bonus.
+If you are not able to clear the exam with 60% criteria, then you will get 2 more attempts.
+And you have to make sure that you clear any of the 2 attempts with a minimum of 65% marks.
+So that's what is happening in your joining process.
+Now after this joining exam, you get stream training.
+Now let's discuss what happens here.
+So now we have cleared our fundamental assessment.
+Now the next thing is our stream training.
+What is stream training?
+You have 10-12 different streams.
+You have to choose 5 streams according to your priority.
+How are these streams?
+Like your Java can be an extreme, SQL, .NET, etc.
+You have different streams.
+Depending upon what projects the company has and what requirements are,
+you will be allotted one of these streams.
+Once you have an extreme allotted, then you will have a proper training of 6 months.
+And on the basis of that stream, you will also have some exams.
+Now this exam, I will tell you that you will get 3 maximum chances to clear the exams.
+And the exams will be pretty similar to the fundamental assessment criteria.
+Similarly, your stream training exams are also being done.
+Once you have completed your initial training program, you get a 25000 bonus.
+Also, the company allots the project to a specific location.
+So after completing your stream training, you will basically be joining a particular project.
+Now let's talk about how you will get the projects.
+So in essential, the projects that you get are completely dependent on your business requirements.
+It is possible that you have done your stream training in Java, but when you get the project, it is a .NET.
+This is also a possibility.
+Once the project is allotted, it is a bit difficult to change the project or technology.
+To be honest, it is not that you will switch from this project to that project.
+Now one more thing, your projects that are allotted are not necessarily allotted after the stream training.
+ Sometimes your project gets allotted even before the stream training is complete.
+Like you are training and the project gets allotted in the middle.
+So this is about the project.
+Working hours are the same as other companies, minimum 9 hours.
+And also it depends a little on what your project is and how the team is.
+According to the team, the working period is a bit flexible.
+One good thing is that there is no bond amount here.
+If you are leaving the company a year before, then you have to give a one-month notice period.
+If you are leaving after a year, then this notice period is two months.
+So this was it in this video.
+If I have missed any information or there is no information, you want to tell me,
+then tell me in the comment section so that our other friends can also benefit from this.
+I have made such videos on some other companies.
+Go and check them out.
+And if you want me to make it in another company, then tell me in the comment section.
+See you in the next video with some new content.
+Till then bye bye.
